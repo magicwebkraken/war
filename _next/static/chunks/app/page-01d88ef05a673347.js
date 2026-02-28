@@ -2472,7 +2472,7 @@
                                 },
                                 children: [
                                   (0, r.jsxs)("a", {
-                                    href: "https://coinmarketcap.com/currencies/war/",
+                                    href: "https://t.me/waroneth",
                                     target: "_blank",
                                     rel: "noreferrer noopener",
                                     style: {
@@ -2646,7 +2646,7 @@
                                     ],
                                   }),
                                   (0, r.jsxs)("a", {
-                                    href: "https://x.com/i/communities/2015899639397101613",
+                                    href: "https://x.com/waroneth",
                                     target: "_blank",
                                     rel: "noreferrer noopener",
                                     style: {
@@ -2728,7 +2728,7 @@
                                           lineHeight: 1,
                                           transition: "color 0.25s ease",
                                         },
-                                        children: "COMMUNITY",
+                                        children: "Twitter",
                                       }),
                                     ],
                                   }),
