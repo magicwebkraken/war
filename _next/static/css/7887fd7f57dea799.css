@@ -1,0 +1,59 @@
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+body,
+html {
+  overflow-x: clip;
+  max-width: 100%;
+  min-width: 0;
+}
+.global-effects-container {
+  overflow-x: clip !important;
+  max-width: 100% !important;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
+}
+@font-face {
+  font-family: Liberator;
+  src: url(/fonts/Liberator_TTF/Liberator-Heavy.ttf) format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Liberator;
+  src: url(/fonts/Liberator_TTF/Liberator-Medium.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Liberator;
+  src: url(/fonts/Liberator_TTF/Liberator-Medium.ttf) format("truetype");
+  font-weight: 410;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Liberator;
+  src: url(/fonts/Liberator_TTF/Liberator-Light.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Roboto Mono;
+  src: url(/fonts/Roboto-Mono/RobotoMono-Regular.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Roboto Mono;
+  src: url(/fonts/Roboto-Mono/RobotoMono-Bold.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
