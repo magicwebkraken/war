@@ -1175,7 +1175,7 @@
                               textAlign: "center",
                             },
                             children:
-                              "Launched on BonkFun \xb7 Powered by WAR",
+                              "",
                           }),
                         ],
                       }),
