@@ -1315,7 +1315,7 @@
                                     },
                                     onClick: () => {
                                       window.open(
-                                        "https://dexscreener.com/solana/qnaglpknyzntf5ijhdki9prgodgra5bnadacgecdsjw",
+                                        "https://dexscreener.com/ethereum/0x252087441dc1C51De7faA5A253F4F5387d5bb9fd",
                                         "_blank",
                                         "noopener,noreferrer"
                                       );
@@ -1401,7 +1401,7 @@
                                     },
                                     onClick: () => {
                                       window.open(
-                                        "https://x.com/i/communities/2015899639397101613",
+                                        "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x252087441dc1c51de7faa5a253f4f5387d5bb9fd",
                                         "_blank",
                                         "noopener,noreferrer"
                                       );
@@ -1418,7 +1418,7 @@
                                         (e.currentTarget.style.boxShadow =
                                           "0 2px 4px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.06)");
                                     },
-                                    children: "JOIN THE FRONTLINE",
+                                    children: "Buy Now",
                                   }),
                                 ],
                               }),
@@ -2559,7 +2559,7 @@
                                     ],
                                   }),
                                   (0, r.jsxs)("a", {
-                                    href: "https://dexscreener.com/solana/qnaglpknyzntf5ijhdki9prgodgra5bnadacgecdsjw",
+                                    href: "https://dexscreener.com/ethereum/0x252087441dc1C51De7faA5A253F4F5387d5bb9fd",
                                     target: "_blank",
                                     rel: "noreferrer noopener",
                                     style: {
